@@ -12,7 +12,7 @@ so the plant ends up with insomnia.
 
 LINE = (
     "One star: he waters me with yesterday's coffee, and now I'm "
-    "the only plant in this flat with insomnia."
+    "the only plant with insomnia."
 )
 
 

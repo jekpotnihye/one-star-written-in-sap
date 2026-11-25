@@ -5,7 +5,7 @@ the
 [One Star, Written in Sap](https://make.fun/bounty/u-steady-puffin-78-1922-one-star-written-in-sap-2ea1f4f4)
 bounty on make.fun. The program writes one houseplant review to
 `/output/entry.txt`: the owner waters the plant with yesterday's
-coffee, and now it is the only plant in the flat with insomnia.
+coffee, and now it is the only plant with insomnia.
 
 [![One Star, Written in Sap](https://make.fun/badge/u-steady-puffin-78-1922-one-star-written-in-sap-2ea1f4f4.svg)](https://make.fun/bounty/u-steady-puffin-78-1922-one-star-written-in-sap-2ea1f4f4)
 [![Rank](https://make.fun/badge/u-steady-puffin-78-1922-one-star-written-in-sap-2ea1f4f4/jekpotnihye/one-star-written-in-sap/rank.svg)](https://make.fun/bounty/u-steady-puffin-78-1922-one-star-written-in-sap-2ea1f4f4)
