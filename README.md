@@ -4,8 +4,8 @@ A single one-line 1-star review, written by a small Python program for
 the
 [One Star, Written in Sap](https://make.fun/bounty/u-steady-puffin-78-1922-one-star-written-in-sap-2ea1f4f4)
 bounty on make.fun. The program writes one houseplant review to
-`/output/entry.txt`: the owner waters the plant with yesterday's
-coffee, and now its leaves have insomnia.
+`/output/entry.txt`: every morning the owner waters the plant with
+yesterday's coffee, and now its leaves have insomnia.
 
 [![One Star, Written in Sap](https://make.fun/badge/u-steady-puffin-78-1922-one-star-written-in-sap-2ea1f4f4.svg)](https://make.fun/bounty/u-steady-puffin-78-1922-one-star-written-in-sap-2ea1f4f4)
 [![Rank](https://make.fun/badge/u-steady-puffin-78-1922-one-star-written-in-sap-2ea1f4f4/jekpotnihye/one-star-written-in-sap/rank.svg)](https://make.fun/bounty/u-steady-puffin-78-1922-one-star-written-in-sap-2ea1f4f4)

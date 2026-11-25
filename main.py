@@ -11,8 +11,8 @@ so the plant ends up with insomnia.
 """
 
 LINE = (
-    "One star: he waters me with yesterday's coffee, and now my "
-    "leaves have insomnia."
+    "One star: he waters me with yesterday's coffee every morning, "
+    "and now my leaves have insomnia."
 )
 
 
